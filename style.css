@@ -1,4 +1,11 @@
-h1 {color:#661b1c; background-color:#1b222c; font-family:courier new; text-align:center; font-size:500%}
+:root {
+  --text: #e20808;
+  --textLink: #531516;
+  --backGround: #191d26;
+  --backGroundAlt: #1b222c;
+}
+
+h1 {color: var(--text); background-color:#1b222c; font-family:courier new; text-align:center; font-size:500%}
 h2 {color:#661b1c; text-align:center;}
 h3 {color:#661b1c; text-align:left;}
 h4 {color:#531516;}
