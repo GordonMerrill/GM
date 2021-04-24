@@ -1,9 +1,9 @@
-h1 {color:#0f0; background-color:#111; font-family:courier new; text-align:center; font-size:500%}
-h2 {color:#0f0; text-align:center;}
-h3 {color:#0f0; text-align:left;}
-h4 {color:#f0f;}
-hr {border: 1px solid #0f0;}
-ul {color:#0f0;}
-table, th, td {color:#0f0; border: 1px solid #0f0; border-collapse: collapse; text-align:center;}
-body {background-color:#000;}
+h1 {color:#661b1c; background-color:#1b222c; font-family:courier new; text-align:center; font-size:500%}
+h2 {color:#661b1c; text-align:center;}
+h3 {color:#661b1c; text-align:left;}
+h4 {color:#531516;}
+hr {border: 1px solid #661b1c;}
+ul {color:#661b1c;}
+table, th, td {color:#661b1c; border: 1px solid #661b1c; border-collapse: collapse; text-align:center;}
+body {background-color:#191d26;}
 img {border-radius: 50%}
